@@ -1,0 +1,767 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-24 08:34+0700\n"
+"PO-Revision-Date: 2022-11-24 08:35+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: scw-addproduct-frontend.php:30
+msgid "SmartCms Add Product FrontEnd"
+msgstr ""
+
+#: scw-addproduct-frontend.php:32
+msgid "Allowing add product from frontend for WooCommerce"
+msgstr ""
+
+#: scw-addproduct-frontend.php:100
+msgid "Product Information"
+msgstr ""
+
+#: scw-addproduct-frontend.php:102
+msgid "Product Data"
+msgstr ""
+
+#: scw-addproduct-frontend.php:104
+msgid "Product Images"
+msgstr ""
+
+#: scw-addproduct-frontend.php:108 scw-addproduct-frontend.php:961
+msgid "Product Name"
+msgstr ""
+
+#: scw-addproduct-frontend.php:112
+msgid "Product Short Description"
+msgstr ""
+
+#: scw-addproduct-frontend.php:116
+msgid "Product Description"
+msgstr ""
+
+#: scw-addproduct-frontend.php:120
+msgid "Product Categories"
+msgstr ""
+
+#: scw-addproduct-frontend.php:133
+msgid "Product Tags"
+msgstr ""
+
+#: scw-addproduct-frontend.php:134
+msgid "Separate tags with commas"
+msgstr ""
+
+#: scw-addproduct-frontend.php:137
+msgid "Catalog visibility"
+msgstr ""
+
+#: scw-addproduct-frontend.php:140
+msgid "Visible"
+msgstr ""
+
+#: scw-addproduct-frontend.php:144
+msgid "Catalog"
+msgstr ""
+
+#: scw-addproduct-frontend.php:148
+msgid "Search"
+msgstr ""
+
+#: scw-addproduct-frontend.php:152
+msgid "Hidden"
+msgstr ""
+
+#: scw-addproduct-frontend.php:158
+msgid "Featured Product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:160
+msgid "Enable this option to feature this product."
+msgstr ""
+
+#: scw-addproduct-frontend.php:165
+msgid "Product Type"
+msgstr ""
+
+#: scw-addproduct-frontend.php:167
+msgid "Simple product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:168
+msgid "Grouped product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:169
+msgid "External/Affiliate product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:170
+msgid "Variable product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:175
+msgid "Bookable product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:184
+msgid "Virtual"
+msgstr ""
+
+#: scw-addproduct-frontend.php:188
+msgid "Downloadable"
+msgstr ""
+
+#: scw-addproduct-frontend.php:192
+msgid "Has persons"
+msgstr ""
+
+#: scw-addproduct-frontend.php:196
+msgid "Has resources"
+msgstr ""
+
+#: scw-addproduct-frontend.php:204
+msgid "General"
+msgstr ""
+
+#: scw-addproduct-frontend.php:208
+msgid "Inventory"
+msgstr ""
+
+#: scw-addproduct-frontend.php:212
+msgid "Shipping"
+msgstr ""
+
+#: scw-addproduct-frontend.php:216
+msgid "Linked Products"
+msgstr ""
+
+#: scw-addproduct-frontend.php:220
+msgid "Attributes"
+msgstr ""
+
+#: scw-addproduct-frontend.php:228
+msgid "Advanced"
+msgstr ""
+
+#: scw-addproduct-frontend.php:232
+msgid "Availability"
+msgstr ""
+
+#: scw-addproduct-frontend.php:236
+msgid "Costs"
+msgstr ""
+
+#: scw-addproduct-frontend.php:240
+msgid "Persons"
+msgstr ""
+
+#: scw-addproduct-frontend.php:244 scw-addproduct-frontend.php:885
+msgid "Resources"
+msgstr ""
+
+#: scw-addproduct-frontend.php:248
+msgid "Commission"
+msgstr ""
+
+#: scw-addproduct-frontend.php:254
+msgid "Product URL"
+msgstr ""
+
+#: scw-addproduct-frontend.php:258
+msgid "Button Text"
+msgstr ""
+
+#: scw-addproduct-frontend.php:262
+msgid "Regular Price"
+msgstr ""
+
+#: scw-addproduct-frontend.php:266
+msgid "Sale Price"
+msgstr ""
+
+#: scw-addproduct-frontend.php:270
+msgid "Downloadable files"
+msgstr ""
+
+#: scw-addproduct-frontend.php:273
+msgid "Name"
+msgstr ""
+
+#: scw-addproduct-frontend.php:274
+msgid "File URL"
+msgstr ""
+
+#: scw-addproduct-frontend.php:284
+msgid "Add File"
+msgstr ""
+
+#: scw-addproduct-frontend.php:288
+msgid "Download Limit"
+msgstr ""
+
+#: scw-addproduct-frontend.php:292
+msgid "Download Expiry"
+msgstr ""
+
+#: scw-addproduct-frontend.php:296
+msgid "Sale Price Dates"
+msgstr ""
+
+#: scw-addproduct-frontend.php:297
+msgid "From… YYYY-MM-DD"
+msgstr ""
+
+#: scw-addproduct-frontend.php:298
+msgid "To… YYYY-MM-DD"
+msgstr ""
+
+#: scw-addproduct-frontend.php:301
+msgid "Tax Status"
+msgstr ""
+
+#: scw-addproduct-frontend.php:303
+msgid "Taxable"
+msgstr ""
+
+#: scw-addproduct-frontend.php:304
+msgid "Shipping only"
+msgstr ""
+
+#: scw-addproduct-frontend.php:305
+msgid "None"
+msgstr ""
+
+#: scw-addproduct-frontend.php:309
+msgid "Tax Class"
+msgstr ""
+
+#: scw-addproduct-frontend.php:311
+msgid "Standard"
+msgstr ""
+
+#: scw-addproduct-frontend.php:312
+msgid "Reduced Rate"
+msgstr ""
+
+#: scw-addproduct-frontend.php:313
+msgid "Zero Rate"
+msgstr ""
+
+#: scw-addproduct-frontend.php:317
+msgid "Booking Duration"
+msgstr ""
+
+#: scw-addproduct-frontend.php:319
+msgid "Fixed blocks of"
+msgstr ""
+
+#: scw-addproduct-frontend.php:320
+msgid "Customer defined blocks of"
+msgstr ""
+
+#: scw-addproduct-frontend.php:324 scw-addproduct-frontend.php:514
+#: scw-addproduct-frontend.php:526
+msgid "Month(s)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:325 scw-addproduct-frontend.php:516
+#: scw-addproduct-frontend.php:528
+msgid "Day(s)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:326 scw-addproduct-frontend.php:517
+#: scw-addproduct-frontend.php:529
+msgid "Hour(s)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:327
+msgid "Minutes(s)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:331
+msgid "Minimum Duration"
+msgstr ""
+
+#: scw-addproduct-frontend.php:335
+msgid "Maximum Duration"
+msgstr ""
+
+#: scw-addproduct-frontend.php:339
+msgid "Calendar Display Mode"
+msgstr ""
+
+#: scw-addproduct-frontend.php:341
+msgid "Display calendar on click"
+msgstr ""
+
+#: scw-addproduct-frontend.php:342
+msgid "Calendar always visible"
+msgstr ""
+
+#: scw-addproduct-frontend.php:346
+msgid "Requires Confirmation"
+msgstr ""
+
+#: scw-addproduct-frontend.php:349
+msgid ""
+"Check this box if the booking requires admin approval/confirmation. Payment "
+"will not be taken during checkout."
+msgstr ""
+
+#: scw-addproduct-frontend.php:353
+msgid "Can be cancelled"
+msgstr ""
+
+#: scw-addproduct-frontend.php:356
+msgid ""
+"Check this box if the booking can be cancelled by the customer after it has "
+"been purchased. A refund will not be sent automatically."
+msgstr ""
+
+#: scw-addproduct-frontend.php:362
+msgid "SKU"
+msgstr ""
+
+#: scw-addproduct-frontend.php:366
+msgid "Manage Stock?"
+msgstr ""
+
+#: scw-addproduct-frontend.php:369
+msgid "Enable stock management at product level"
+msgstr ""
+
+#: scw-addproduct-frontend.php:373
+msgid "Stock Quantity"
+msgstr ""
+
+#: scw-addproduct-frontend.php:377
+msgid "Allow Backorders?"
+msgstr ""
+
+#: scw-addproduct-frontend.php:379
+msgid "Do not allow"
+msgstr ""
+
+#: scw-addproduct-frontend.php:380
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: scw-addproduct-frontend.php:381
+msgid "Allow"
+msgstr ""
+
+#: scw-addproduct-frontend.php:385
+msgid "Stock Status"
+msgstr ""
+
+#: scw-addproduct-frontend.php:387
+msgid "In stock"
+msgstr ""
+
+#: scw-addproduct-frontend.php:388
+msgid "Out of stock"
+msgstr ""
+
+#: scw-addproduct-frontend.php:392
+msgid "Sold Individually"
+msgstr ""
+
+#: scw-addproduct-frontend.php:395
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+
+#: scw-addproduct-frontend.php:401
+msgid "Weight(lbs)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:405
+msgid "Dimensions(in)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:407
+msgid "Length"
+msgstr ""
+
+#: scw-addproduct-frontend.php:408
+msgid "Width"
+msgstr ""
+
+#: scw-addproduct-frontend.php:409
+msgid "Height"
+msgstr ""
+
+#: scw-addproduct-frontend.php:413
+msgid "Shipping Class"
+msgstr ""
+
+#: scw-addproduct-frontend.php:415
+msgid "No shipping class"
+msgstr ""
+
+#: scw-addproduct-frontend.php:421
+msgid "Up-sells"
+msgstr ""
+
+#: scw-addproduct-frontend.php:424 scw-addproduct-frontend.php:431
+#: scw-addproduct-frontend.php:438
+msgid "Choose Products"
+msgstr ""
+
+#: scw-addproduct-frontend.php:428
+msgid "Cross-sells"
+msgstr ""
+
+#: scw-addproduct-frontend.php:435
+msgid "Grouped Products"
+msgstr ""
+
+#: scw-addproduct-frontend.php:444
+msgid "Search Products"
+msgstr ""
+
+#: scw-addproduct-frontend.php:446
+msgid "Add Products"
+msgstr ""
+
+#: scw-addproduct-frontend.php:465
+msgid "Select Option"
+msgstr ""
+
+#: scw-addproduct-frontend.php:477
+msgid "separate terms"
+msgstr ""
+
+#: scw-addproduct-frontend.php:492
+msgid "Purchase Note"
+msgstr ""
+
+#: scw-addproduct-frontend.php:496
+msgid "Menu Order"
+msgstr ""
+
+#: scw-addproduct-frontend.php:500
+msgid "Enable Reviews"
+msgstr ""
+
+#: scw-addproduct-frontend.php:506
+msgid "Max Bookings Per Block"
+msgstr ""
+
+#: scw-addproduct-frontend.php:510
+msgid "Minimum Block Bookable"
+msgstr ""
+
+#: scw-addproduct-frontend.php:515 scw-addproduct-frontend.php:527
+msgid "Week(s)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:522
+msgid "Maximum Block Bookable"
+msgstr ""
+
+#: scw-addproduct-frontend.php:534
+msgid "All Dates Are"
+msgstr ""
+
+#: scw-addproduct-frontend.php:536
+msgid "available by default"
+msgstr ""
+
+#: scw-addproduct-frontend.php:537
+msgid "not-available by default"
+msgstr ""
+
+#: scw-addproduct-frontend.php:541
+msgid "Check Rules Against"
+msgstr ""
+
+#: scw-addproduct-frontend.php:543
+msgid "All blocks being booked"
+msgstr ""
+
+#: scw-addproduct-frontend.php:544
+msgid "The starting block only"
+msgstr ""
+
+#: scw-addproduct-frontend.php:548
+msgid "First Block Starts At"
+msgstr ""
+
+#: scw-addproduct-frontend.php:549 scw-addproduct-frontend.php:768
+#: scw-addproduct-frontend.php:815
+msgid "HH:MM"
+msgstr ""
+
+#: scw-addproduct-frontend.php:553 scw-addproduct-frontend.php:698
+msgid "Range Type"
+msgstr ""
+
+#: scw-addproduct-frontend.php:554 scw-addproduct-frontend.php:699
+msgid "From"
+msgstr ""
+
+#: scw-addproduct-frontend.php:555 scw-addproduct-frontend.php:700
+msgid "To"
+msgstr ""
+
+#: scw-addproduct-frontend.php:556
+msgid "Bookable"
+msgstr ""
+
+#: scw-addproduct-frontend.php:557
+msgid "Priority"
+msgstr ""
+
+#: scw-addproduct-frontend.php:563 scw-addproduct-frontend.php:708
+msgid "Custom date range"
+msgstr ""
+
+#: scw-addproduct-frontend.php:564 scw-addproduct-frontend.php:709
+msgid "Range of months"
+msgstr ""
+
+#: scw-addproduct-frontend.php:565 scw-addproduct-frontend.php:710
+msgid "Range of weeks"
+msgstr ""
+
+#: scw-addproduct-frontend.php:566 scw-addproduct-frontend.php:711
+msgid "Range of days"
+msgstr ""
+
+#: scw-addproduct-frontend.php:567 scw-addproduct-frontend.php:715
+msgid "Time Ranges"
+msgstr ""
+
+#: scw-addproduct-frontend.php:568 scw-addproduct-frontend.php:716
+msgid "Time Range (all week)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:569 scw-addproduct-frontend.php:610
+#: scw-addproduct-frontend.php:654 scw-addproduct-frontend.php:717
+#: scw-addproduct-frontend.php:758 scw-addproduct-frontend.php:805
+msgid "Monday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:570 scw-addproduct-frontend.php:611
+#: scw-addproduct-frontend.php:655 scw-addproduct-frontend.php:718
+#: scw-addproduct-frontend.php:759 scw-addproduct-frontend.php:806
+msgid "Tuesday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:571 scw-addproduct-frontend.php:612
+#: scw-addproduct-frontend.php:656 scw-addproduct-frontend.php:719
+#: scw-addproduct-frontend.php:760 scw-addproduct-frontend.php:807
+msgid "Wednesday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:572 scw-addproduct-frontend.php:613
+#: scw-addproduct-frontend.php:657 scw-addproduct-frontend.php:720
+#: scw-addproduct-frontend.php:761 scw-addproduct-frontend.php:808
+msgid "Thursday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:573 scw-addproduct-frontend.php:614
+#: scw-addproduct-frontend.php:658 scw-addproduct-frontend.php:721
+#: scw-addproduct-frontend.php:762 scw-addproduct-frontend.php:809
+msgid "Friday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:574 scw-addproduct-frontend.php:615
+#: scw-addproduct-frontend.php:659 scw-addproduct-frontend.php:722
+#: scw-addproduct-frontend.php:763 scw-addproduct-frontend.php:810
+msgid "Saturday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:575 scw-addproduct-frontend.php:616
+#: scw-addproduct-frontend.php:660 scw-addproduct-frontend.php:723
+#: scw-addproduct-frontend.php:764 scw-addproduct-frontend.php:811
+msgid "Sunday"
+msgstr ""
+
+#: scw-addproduct-frontend.php:585 scw-addproduct-frontend.php:629
+#: scw-addproduct-frontend.php:733 scw-addproduct-frontend.php:780
+msgid "January"
+msgstr ""
+
+#: scw-addproduct-frontend.php:586 scw-addproduct-frontend.php:630
+#: scw-addproduct-frontend.php:734 scw-addproduct-frontend.php:781
+msgid "Febuary"
+msgstr ""
+
+#: scw-addproduct-frontend.php:587 scw-addproduct-frontend.php:631
+#: scw-addproduct-frontend.php:735 scw-addproduct-frontend.php:782
+msgid "March"
+msgstr ""
+
+#: scw-addproduct-frontend.php:588 scw-addproduct-frontend.php:632
+#: scw-addproduct-frontend.php:736 scw-addproduct-frontend.php:783
+msgid "April"
+msgstr ""
+
+#: scw-addproduct-frontend.php:589 scw-addproduct-frontend.php:633
+#: scw-addproduct-frontend.php:737 scw-addproduct-frontend.php:784
+msgid "May"
+msgstr ""
+
+#: scw-addproduct-frontend.php:590 scw-addproduct-frontend.php:634
+#: scw-addproduct-frontend.php:738 scw-addproduct-frontend.php:785
+msgid "June"
+msgstr ""
+
+#: scw-addproduct-frontend.php:591 scw-addproduct-frontend.php:635
+#: scw-addproduct-frontend.php:739 scw-addproduct-frontend.php:786
+msgid "July"
+msgstr ""
+
+#: scw-addproduct-frontend.php:592 scw-addproduct-frontend.php:636
+#: scw-addproduct-frontend.php:740 scw-addproduct-frontend.php:787
+msgid "August"
+msgstr ""
+
+#: scw-addproduct-frontend.php:593 scw-addproduct-frontend.php:637
+#: scw-addproduct-frontend.php:741 scw-addproduct-frontend.php:788
+msgid "September"
+msgstr ""
+
+#: scw-addproduct-frontend.php:594 scw-addproduct-frontend.php:638
+#: scw-addproduct-frontend.php:742 scw-addproduct-frontend.php:789
+msgid "October"
+msgstr ""
+
+#: scw-addproduct-frontend.php:595 scw-addproduct-frontend.php:639
+#: scw-addproduct-frontend.php:743 scw-addproduct-frontend.php:790
+msgid "November"
+msgstr ""
+
+#: scw-addproduct-frontend.php:596 scw-addproduct-frontend.php:640
+#: scw-addproduct-frontend.php:744 scw-addproduct-frontend.php:791
+msgid "December"
+msgstr ""
+
+#: scw-addproduct-frontend.php:603 scw-addproduct-frontend.php:647
+#: scw-addproduct-frontend.php:751 scw-addproduct-frontend.php:798
+msgid "Week"
+msgstr ""
+
+#: scw-addproduct-frontend.php:669
+msgid "No"
+msgstr ""
+
+#: scw-addproduct-frontend.php:670
+msgid "Yes"
+msgstr ""
+
+#: scw-addproduct-frontend.php:679 scw-addproduct-frontend.php:842
+msgid "Add Range"
+msgstr ""
+
+#: scw-addproduct-frontend.php:685 scw-addproduct-frontend.php:701
+#: scw-addproduct-frontend.php:893
+msgid "Base Cost"
+msgstr ""
+
+#: scw-addproduct-frontend.php:689 scw-addproduct-frontend.php:702
+#: scw-addproduct-frontend.php:894
+msgid "Block Cost"
+msgstr ""
+
+#: scw-addproduct-frontend.php:693
+msgid "Display Cost"
+msgstr ""
+
+#: scw-addproduct-frontend.php:712
+msgid "Time Range"
+msgstr ""
+
+#: scw-addproduct-frontend.php:713
+msgid "erson count"
+msgstr ""
+
+#: scw-addproduct-frontend.php:714
+msgid "Block count"
+msgstr ""
+
+#: scw-addproduct-frontend.php:848
+msgid "Min Persons"
+msgstr ""
+
+#: scw-addproduct-frontend.php:852
+msgid "Max Persons"
+msgstr ""
+
+#: scw-addproduct-frontend.php:856
+msgid "Multiply all costs by person count"
+msgstr ""
+
+#: scw-addproduct-frontend.php:860
+msgid "Count persons as bookings"
+msgstr ""
+
+#: scw-addproduct-frontend.php:864
+msgid "Enable person types"
+msgstr ""
+
+#: scw-addproduct-frontend.php:870
+msgid "Label"
+msgstr ""
+
+#: scw-addproduct-frontend.php:874
+msgid "Resources are"
+msgstr ""
+
+#: scw-addproduct-frontend.php:876
+msgid "Customer selected"
+msgstr ""
+
+#: scw-addproduct-frontend.php:877
+msgid "Automatically assigned"
+msgstr ""
+
+#: scw-addproduct-frontend.php:908
+msgid "Commission(%)"
+msgstr ""
+
+#: scw-addproduct-frontend.php:919
+msgid "Product Image"
+msgstr ""
+
+#: scw-addproduct-frontend.php:921 scw-addproduct-frontend.php:926
+msgid "Upload"
+msgstr ""
+
+#: scw-addproduct-frontend.php:924
+msgid "Product Gallery Images"
+msgstr ""
+
+#: scw-addproduct-frontend.php:931
+msgid "Product Added!"
+msgstr ""
+
+#: scw-addproduct-frontend.php:932
+msgid "Submit Product"
+msgstr ""
+
+#: scw-addproduct-frontend.php:960
+msgid "ID"
+msgstr ""
+
+#: scw-addproduct-frontend.php:962
+msgid "Date Uploaded"
+msgstr ""
+
+#: scw-addproduct-frontend.php:963
+msgid "Product Status"
+msgstr ""
